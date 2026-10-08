@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Docker y Variables de Entorno (¡Clave para la seguridad!)
+.docker/
+.env
+docker-compose.override.yml
+
+# Sistemas Operativos y Editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
