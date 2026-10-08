@@ -1,7 +1,7 @@
 # Proyecto 4 · Big Data Urbano
 
 ## Descripción y objetivo
-Análisis y procesamiento de grandes volúmenes de datos urbanos (tráfico, calidad del aire, demografía, etc.) para extraer valor y visualizar métricas clave del entorno de la ciudad.
+Pipeline completo de ingeniería de datos (batch y streaming) sobre datos abiertos de Valencia (tráfico, calidad del aire y meteorología). Incluye visualización de indicadores consolidados y tiempo real, finalizando con un modelo predictivo de NO₂.
 
 ## Arquitectura
 
